@@ -22,6 +22,7 @@ console.log("hello")
 ```js {2,3}
 console.log("hello world")
 // this is comment
+//idsjgsgj;fdg
 let a  = 12;
 ```
 
